@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(37, 36, 36);
+}
+.first-title{
+    color: white;
+    margin: 0 0 20px 0;
+    font-size: 60px;
+    font-weight: bolder;
+}
+.Rock-button, .Paper-button, .Scissors-button{
+    cursor: pointer;
+    background-color: transparent;
+    width: 200px;
+    height: 200px;
+    color: white;
+    border-radius: 100px;
+    border: 6px;
+    border-style: solid;
+    border-color: white;
+    margin: 6px;
+}
+#reset-button {
+    opacity: 0;
+    width: 150px;
+    height: 50px;
+    border-radius: 25px;
+    border: 3px;
+    border-style: solid;
+    border-color: rgb(0, 200, 255);
+    background-color: black;
+    color: white;
+    font-size: medium;
+    font-weight: bold;
+}
+img{
+    width: 70%;
+}
+.js-paragraph1  {
+    color: white;
+    margin : 6px;
+    font-size: 60px;
+    font-weight: bold;
+}
+.js-paragraph2{
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.js-paragraph3{
+    margin: 10px 0 0 0;
+    color: white;
+    font-size: 18px;
+    font-weight: lighter;
+}
